@@ -13,7 +13,7 @@ function App() {
             { id: 3, address: "600 Pennsylvania Avenue" },
             { id: 3, address: "221B Baker St" },
           ]}
-          sale={true}
+          sale={false}
           loadData={() => {}}
         />
       </header>
